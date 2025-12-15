@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadrasul21&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadrasul21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadrasul21" alt="muhammadrasul21" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gulomovdev.vercel.app)
